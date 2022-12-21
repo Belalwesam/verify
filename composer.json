@@ -11,12 +11,6 @@
             "email": "belal.wesam@jusooor.com"
         }
     ],
-    "extra": {
-        "laravel": {
-          "providers": [
-            "Jusoor\\Verify\\VerifyServiceProvider"
-          ]
-        }
-      },
+    
     "require": {}
 }
