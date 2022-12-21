@@ -1,0 +1,22 @@
+{
+    "name": "jusoor/verify",
+    "autoload": {
+        "psr-4": {
+            "Jusoor\\Verify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Belalwesam",
+            "email": "belal.wesam@jusooor.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+          "providers": [
+            "Jusoor\\Verify\\VerifyServiceProvider"
+          ]
+        }
+      },
+    "require": {}
+}
